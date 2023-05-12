@@ -15,8 +15,8 @@ namespace InventoryManagement
                 Console.WriteLine(inventory.name);
                 Console.WriteLine(inventory.price);
                 Console.WriteLine(inventory.weight);
-                //int inventoryPrice = inventory.weight * inventory.price;
-                //Console.WriteLine("The price of {0} for {1} kg is {2}rs",inventory.name,inventory.weight,inventoryPrice);
+                int inventoryPrice = inventory.weight * inventory.price;
+                Console.WriteLine("The price of {0} for {1} kg is {2}rs",inventory.name,inventory.weight,inventoryPrice);
             }
 
             Console.WriteLine("Types of Wheat");
@@ -25,8 +25,8 @@ namespace InventoryManagement
                 Console.WriteLine(inventory.name);
                 Console.WriteLine(inventory.price);
                 Console.WriteLine(inventory.weight);
-                //int inventoryPrice = inventory.weight * inventory.price;
-                //Console.WriteLine("The price of {0} for {1} kg is {2}rs", inventory.name, inventory.weight, inventoryPrice);
+                int inventoryPrice = inventory.weight * inventory.price;
+                Console.WriteLine("The price of {0} for {1} kg is {2}rs", inventory.name, inventory.weight, inventoryPrice);
             }
 
             Console.WriteLine("Types of Pulses ");
@@ -35,8 +35,8 @@ namespace InventoryManagement
                 Console.WriteLine(inventory.name);
                 Console.WriteLine(inventory.price);
                 Console.WriteLine(inventory.weight);
-                //int inventoryPrice = inventory.weight * inventory.price;
-                //Console.WriteLine("The price of {0} for {1} kg is {2}rs", inventory.name, inventory.weight, inventoryPrice);
+                int inventoryPrice = inventory.weight * inventory.price;
+                Console.WriteLine("The price of {0} for {1} kg is {2}rs", inventory.name, inventory.weight, inventoryPrice);
             }
         }
     }
