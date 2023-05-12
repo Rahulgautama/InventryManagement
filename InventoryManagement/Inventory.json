@@ -1,0 +1,42 @@
+{
+  "TypesOfRice": [
+
+    {
+      "name": "basumathi",
+      "weight": 3,
+      "price": 120
+    },
+    {
+      "name": "basumathi2",
+      "weight": 12,
+      "price": 150
+    }
+  ],
+  "TypesOfWheat": [
+
+    {
+      "name": "Wheat1",
+      "weight": 30,
+      "price": 12
+    },
+    {
+      "name": "Wheat2",
+      "weight": 102,
+      "price": 17
+    }
+  ],
+  "TypesOfPulses": [
+
+    {
+      "name": "dal",
+      "weight": 30,
+      "price": 12
+    },
+    {
+      "name": "Green",
+      "weight": 12,
+      "price": 170
+    }
+  ]
+
+}
